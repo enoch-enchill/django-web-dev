@@ -30,4 +30,4 @@ Some of the busiest sites on the planet use Django’s ability to quickly and fl
 Companies, organizations and governments have used Django to build all sorts of things — from content management systems to social networks to scientific computing platforms.
 <br><br>
 
-## [Topic 01](/T01PythonVirtualEnvironment): Python Virtual Environment
+## [Topic 01](/T01DjangoProjectSetup): Django Project Setup
